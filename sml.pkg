@@ -1,4 +1,5 @@
 package github.com/sjqtentacles/sml-ical
 
 require {
+  github.com/sjqtentacles/sml-tzdb
 }
